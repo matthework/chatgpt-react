@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1>OpenAI Integration</h1>
-      <h3>(OpenAI v1.46.1 + React v18.3.1 + Flask v3.03)</h3>
+      <h3>(OpenAI v1.47.0 + React v18.3.1 + Flask v3.03)</h3>
       <ChatGPT />
     </div>
   );
