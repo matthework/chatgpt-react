@@ -57,7 +57,7 @@ const ChatGPT = () => {
         />
       </div>
       <div style={{ marginTop: "100px" }}>
-        <p>About</p>
+        <b>About</b>
         <p>
           This app is used to demonstrate OpenAI Integration with React + Flask
           stack.
