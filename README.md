@@ -5,6 +5,10 @@ The React application sends user input to the backend and displays the AI-genera
 ## How to build and start app
 
 ```
+npm install
+```
+
+```
 npm run build
 ```
 
