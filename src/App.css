@@ -10,6 +10,13 @@
   border-radius: 4px;
 }
 
+/* Responsive layout */
+@media (max-width: 1200px) {
+  .App-textarea {
+    width: 80%;
+  }
+}
+
 .App-button {
   border: 1px solid #ccc;
   border-radius: 4px;
