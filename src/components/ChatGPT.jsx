@@ -62,8 +62,11 @@ const ChatGPT = () => {
           This app is built to demonstrate OpenAI Integration by using React +
           Flask stack.
         </p>
+        <p>Developed by Matt Wang @ 2024</p>
+        <a href="https://wangxigua.com" target="blank">
+          www.wangxigua.com
+        </a>
       </div>
-      <footer>Developed by Matt Wang @ 2024</footer>
     </div>
   );
 };
