@@ -32,7 +32,7 @@ const ChatGPT = () => {
 
   return (
     <div style={{ padding: "20px" }}>
-      <h2>ChatGPT Model: gpt-4o-mini</h2>
+      <h2>GPT Model: gpt-4o-mini</h2>
       <form onSubmit={handleSubmit}>
         <textarea
           value={input}
