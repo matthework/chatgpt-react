@@ -59,10 +59,10 @@ const ChatGPT = () => {
       <div style={{ marginTop: "50px" }}>
         <b>About</b>
         <p>
-          This app is built to demonstrate OpenAI Integration by using React +
-          Flask stack.
+          This app is developed to demonstrate GenAI integration by using React
+          + Flask stack on AWS.
         </p>
-        <p>Developed by Matt Wang @ 2024</p>
+        <p>&copy; 2024 Created by Matt Wang</p>
         <a href="https://wangxigua.com" target="blank">
           www.wangxigua.com
         </a>
